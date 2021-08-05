@@ -1,0 +1,107 @@
+[{
+  "id": "1",
+  "text": "1",
+  "widget": "button",
+  "treeElementChildren": null,
+  "value": "1",
+  "flag": "0"
+},
+  {
+    "id": "2",
+    "text": "2",
+    "widget": "button",
+    "treeElementChildren": null,
+    "value": "2",
+    "flag": "0"
+  },
+
+  {
+    "id": "3",
+    "text": "3",
+    "widget": "button",
+    "treeElementChildren": null,
+    "value": "3",
+    "flag": "0"
+  },
+  {
+    "id": "4",
+    "text": "4",
+    "widget": "button",
+    "treeElementChildren": null,
+    "value": "4",
+    "flag": "0"
+  },
+  {
+    "id": "5",
+    "text": "5",
+    "widget": "button",
+    "treeElementChildren": null,
+    "value": "5",
+    "flag": "0"
+  },
+  {
+    "id": "6",
+    "text": "6",
+    "widget": "button",
+    "treeElementChildren": null,
+    "value": "6",
+    "flag": "0"
+  },
+  {
+    "id": "7",
+    "text": "7",
+    "widget": "button",
+    "treeElementChildren": null,
+    "value": "7",
+    "flag": "0"
+  },
+  {
+    "id": "8",
+    "text": "8",
+    "widget": "button",
+    "treeElementChildren": null,
+    "value": "8",
+    "flag": "0"
+  },
+  {
+    "id": "9",
+    "text": "9",
+    "widget": "button",
+    "treeElementChildren": null,
+    "value": "9",
+    "flag": "0"
+  },
+  {
+    "id": "0",
+    "text": "0",
+    "widget": "button",
+    "treeElementChildren": null,
+    "value": "0",
+    "flag": "0"
+  },
+
+  {
+    "id": "Operation",
+    "text": "Qua verranno visualizzate le operazioni",
+    "widget": "textView",
+    "treeElementChildren": null,
+    "flag": "1"
+  },
+  {
+    "id": "=",
+    "text": "=",
+    "widget": "button",
+    "treeElementChildren": null,
+    "value": "=",
+    "flag": "1"
+  },
+  {
+    "id": "+",
+    "text": "+",
+    "widget": "button",
+    "treeElementChildren": null,
+    "value": "+",
+    "flag": "1"
+  }
+
+]

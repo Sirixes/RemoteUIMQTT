@@ -1,0 +1,90 @@
+[{
+  "id": "0",
+  "text": "oggetto0",
+  "widget": "tabLayout",
+  "treeElementChildren": [{
+    "id": "Child0",
+    "text": "Tab0",
+    "widget": "tabLayout",
+    "treeElementChildren": [{
+      "id": "0",
+      "text": "oggetto0",
+      "widget": "textInput",
+      "treeElementChildren": null
+    }]
+  }, {
+    "id": "Child1",
+    "text": "Tab1",
+    "widget": "tabLayout",
+    "treeElementChildren": [{
+      "id": "0",
+      "text": "oggetto0",
+      "widget": "textView",
+      "treeElementChildren": null
+    }]
+  }, {
+    "id": "Child2",
+    "text": "Tab2",
+    "widget": "tabLayout",
+    "treeElementChildren": [{
+      "id": "0",
+      "text": "Oggetto0",
+      "widget": "button",
+      "treeElementChildren": null,
+      "action": "increment",
+      "variable": "incDecVariable",
+      "quantity": "5"
+    }]
+  }]
+}, {
+  "id": "1",
+  "text": "oggetto1",
+  "widget": "tabLayout",
+  "treeElementChildren": [{
+    "id": "Child0",
+    "text": "Tab0",
+    "widget": "tabLayout",
+    "treeElementChildren": [{
+      "id": "0",
+      "text": "Oggetto0",
+      "widget": "button",
+      "treeElementChildren": null,
+      "action": "decrement",
+      "variable": "incDecVariable",
+      "quantity": "5"
+    }, {
+      "id": "1",
+      "text": "oggetto1",
+      "widget": "textView",
+      "treeElementChildren": null
+    }]
+  }, {
+    "id": "Child1",
+    "text": "Tab1",
+    "widget": "tabLayout",
+    "treeElementChildren": [{
+      "id": "0",
+      "text": "oggetto0",
+      "widget": "textView",
+      "treeElementChildren": null
+    }, {
+      "id": "1",
+      "text": "oggetto1",
+      "widget": "textInput",
+      "treeElementChildren": null
+    }]
+  }]
+}, {
+  "id": "2",
+  "text": "Oggetto2",
+  "widget": "button",
+  "treeElementChildren": null,
+  "action": "decrement",
+  "variable": "incDecVariable",
+  "quantity": "5"
+}, {
+  "id": "3",
+  "text": "oggetto3",
+  "widget": "videoView",
+  "treeElementChildren": null
+}]

@@ -1,0 +1,16 @@
+[{
+  "id": "toggle",
+  "text": "attiva/disattiva",
+  "widget": "button",
+  "treeElementChildren": null,
+  "value": "1",
+  "flag": "0"
+},
+  {
+    "id": "clock",
+    "text": "Clicca il tasto per richiedere l'ora",
+    "widget": "textView",
+    "treeElementChildren": null,
+    "flag": "1"
+  }
+]
